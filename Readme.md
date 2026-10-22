@@ -30,20 +30,7 @@ python3 "Report card.py"
 Follow the prompts to enter the student ID, name, and marks for each subject.
 
 **Example terminal output:**
-Enter student Id: 201
-Enter student name: nithii
-Enter marks for Language :90
-Marks for Language : 90.0
-Enter marks for English :70
-Marks for English : 70.0
-Enter marks for Maths :67
-Marks for Maths : 67.0
-Enter marks for Science :90
-Marks for Science : 90.0
-Enter marks for Programming :78
-Marks for Programming : 78.0
-Total marks: 395.0
-Grade: B
+
 ===================================
 <<<<<<< HEAD
          Student Report Card
@@ -61,23 +48,8 @@ Programming     90.0
 Total Marks    : 392.0     
 Average        : 78.40     
 Grade          : B         
-=======
-        ** Student Report Card**
-===================================
-Student ID   : 201
-Student Name : nithii
->>>>>>> refs/remotes/origin/main
-===================================
-**Subject         Marks     
-Language        90.0      
-English         70.0      
-Maths           67.0      
-Science         90.0      
-Programming     78.0      
-Total Marks     395.0     
-Average         79.00     
-Grade           B         **
-
+====================================
+       
 
 Python Concepts Practiced
 - Variables and user input — collect student information
