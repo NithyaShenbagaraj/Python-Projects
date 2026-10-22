@@ -42,20 +42,21 @@ The report card will show a total of 253, an average of 84.33, and a grade of A.
 
 Example terminal output:
 ===================================
-         STUDENT REPORT CARD
+         Student Report Card
 ===================================
-Student ID   : ST101
-Student Name : Arun
------------------------------------
-Subject                  Marks
------------------------------------
-Python                   85.00
-Mathematics              90.00
-Science                  78.00
------------------------------------
-Total Marks             253.00
-Average                  84.33
-Grade                        A
+Student ID   : 101
+Student Name : nithi
+===================================
+Subject        : Marks     
+Language        56.0      
+English         78.0      
+Maths           90.0      
+Science         78.0      
+Programming     90.0      
+===================================
+Total Marks    : 392.0     
+Average        : 78.40     
+Grade          : B         
 ===================================
 The exact spacing may vary depending on your code.
 Grading System
