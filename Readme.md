@@ -28,44 +28,37 @@ python "Report card.py"
 If your system uses python3, run:
 python3 "Report card.py"
 Follow the prompts to enter the student ID, name, and marks for each subject.
-Example
-For example, if you enter these details:
-Field	Example
-Student ID	ST101
-Student name	Arun
-Python	85
-Mathematics	90
-Science	78
 
-
-The report card will show a total of 253, an average of 84.33, and a grade of A.
-
-Example terminal output:
+**Example terminal output:**
+Enter student Id: 201
+Enter student name: nithii
+Enter marks for Language :90
+Marks for Language : 90.0
+Enter marks for English :70
+Marks for English : 70.0
+Enter marks for Maths :67
+Marks for Maths : 67.0
+Enter marks for Science :90
+Marks for Science : 90.0
+Enter marks for Programming :78
+Marks for Programming : 78.0
+Total marks: 395.0
+Grade: B
 ===================================
-         STUDENT REPORT CARD
+        ** Student Report Card**
 ===================================
-Student ID   : ST101
-Student Name : Arun
------------------------------------
-Subject                  Marks
------------------------------------
-Python                   85.00
-Mathematics              90.00
-Science                  78.00
------------------------------------
-Total Marks             253.00
-Average                  84.33
-Grade                        A
+Student ID   : 201
+Student Name : nithii
 ===================================
-The exact spacing may vary depending on your code.
-Grading System
-Average	Grade
-90–100	A+
-80–89.99	A
-70–79.99	B
-60–69.99	C
-50–59.99	D
-Below 50	F
+**Subject         Marks     
+Language        90.0      
+English         70.0      
+Maths           67.0      
+Science         90.0      
+Programming     78.0      
+Total Marks     395.0     
+Average         79.00     
+Grade           B         **
 
 
 Python Concepts Practiced
